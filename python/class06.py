@@ -61,3 +61,7 @@ counted_result = fruits.count("Apple")
 print(counted_result)
 
 print("----------------------------------------------------------")
+
+# Nested Tuples in Python
+cars = ("Alto","Grandi","Civic",("Mercedes","BMW","G-Wagon"))
+print(cars)
