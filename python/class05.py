@@ -53,6 +53,9 @@ print(value_1)
 value_2 = False + False
 print(value_2)
 
+value_8 = True + False
+print(value_8)
+
 print("----------------------------------------------------------")
 # Number Bases in Python
 
